@@ -14,7 +14,7 @@ I have developed a passion for cybersecurity, and I am now eager to enter into t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Microsoft Active Directory: Server, User, and Group Management       | <a hhref="https://google.com">Lab</a>|
+| Microsoft Active Directory: Server, User, and Group Management       | <a hhref="https://github.com/mdtay84/MS-Active-Directory">Lab</a>|
 | Networking Configuration on Cisco Packet Tracer | <a hhref="https://google.com">Lab</a>|
 
 ## Tools
